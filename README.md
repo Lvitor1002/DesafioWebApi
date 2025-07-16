@@ -105,7 +105,7 @@ O desafio é o seguinte: Você precisa desenvolver uma API na linguagem de progr
 ```
 
 #### Input
-
+```json
 {
   "user": "sleao",
   "team": [
@@ -117,6 +117,10 @@ O desafio é o seguinte: Você precisa desenvolver uma API na linguagem de progr
     "dragonite"
   ]
 }
+
+```
+
+
 
 
 <h1>Swagger UI</h1>
