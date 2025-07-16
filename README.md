@@ -117,3 +117,10 @@ O desafio é o seguinte: Você precisa desenvolver uma API na linguagem de progr
     "dragonite"
   ]
 }
+
+
+<h1>Swagger UI</h1>
+<h2>Resultado Local</h2>
+<div>
+  <img src="image.png" width="500px"/>
+</div>
