@@ -1,0 +1,60 @@
+{
+    "1": {
+        "owner": "sleao",
+        "pokemons": [
+            {
+                "id": 9,
+                "name": "blastoise",
+                "weight": 855,
+                "height": 16
+            },
+            {
+                "id": 25,
+                "name": "pikachu",
+                "weight": 60,
+                "height": 4
+            }
+        ]
+    },
+    "2": {
+        "owner": "sleao",
+        "pokemons": [
+            {
+                "id": 9,
+                "name": "blastoise",
+                "weight": 855,
+                "height": 16
+            },
+            {
+                "id": 25,
+                "name": "pikachu",
+                "weight": 60,
+                "height": 4
+            },
+            {
+                "id": 3,
+                "name": "venusaur",
+                "weight": 1000,
+                "height": 20
+            },
+            {
+                "id": 6,
+                "name": "charizard",
+                "weight": 905,
+                "height": 17
+            },
+            {
+                "id": 131,
+                "name": "lapras",
+                "weight": 2200,
+                "height": 25
+            },
+            {
+                "id": 54,
+                "name": "psyduck",
+                "weight": 196,
+                "height": 8
+            }
+        ]
+    }
+}
